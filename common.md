@@ -20,7 +20,6 @@ struct TreeNode {
 };
 
 #endif //PACED_REPEATITION_COMMON_TREE_NODE_H_
-
 ```
 
 

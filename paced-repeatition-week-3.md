@@ -4,7 +4,7 @@
 
 #### Climbing-Stairs-70
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/24. 3/5  23:02
 //
@@ -42,7 +42,7 @@ class Solution {
 
 #### Combinations-77
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/29. 1/5 18:41
 //
@@ -104,7 +104,7 @@ class Solution3 {
 
 #### Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal-105
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/27. 1/5 22:49
 //
@@ -264,7 +264,7 @@ class Solution3 {
 
 #### divide-and-conquer-template
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/30. 14:42
 //
@@ -295,7 +295,7 @@ int divide_conquer(Problem *problem, int params) {
 
 #### Generate-Parentheses-22
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/24.
 //
@@ -346,7 +346,7 @@ int main() {
 
 #### Invert-Binary-Tree-226
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/25. 2/5 23:47
 //
@@ -463,7 +463,7 @@ TreeNode *invertTree(TreeNode *root) {
 
 #### Letter-Combinations-of-a-Phone-Number-17
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/30. 1/5 17:50
 //
@@ -518,7 +518,7 @@ class Solution {
 
 #### Lowest-Common-Ancestor-of-a-Binary-Tree-236
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/27. 2/5 09:43
 //
@@ -632,7 +632,7 @@ class Solution2 {
 
 #### Majority-Element-169
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/30. 1/5 18:11
 //
@@ -653,7 +653,7 @@ class Solution {
 
 #### Maximum-Depth-of-Binary-Tree-104
 
-```
+```cpp
 ///
 // Created by 张达 on 2020/8/25. 2/5 08:46
 //
@@ -704,7 +704,7 @@ class SolutionSimplify {
 
 #### Minimum-Depth-of-Binary-Tree-111
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/26. 1/5 09:10
 //
@@ -753,11 +753,9 @@ class Solution {
 
 
 
-
-
 #### Path-Sum-112
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/28. 23:56 2/5
 //
@@ -834,7 +832,7 @@ class Solution2 {
 
 #### Path-Sum-II-113
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/28. 2/5 21:13
 //
@@ -913,11 +911,9 @@ class Solution4 {
 
 
 
-
-
 #### Path-Sum-III-437
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/29. 08:03 1/5
 //
@@ -1011,7 +1007,7 @@ class Solution2 {
 
 #### Permutations-46
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/29. 22:21 2/5
 //
@@ -1072,11 +1068,9 @@ class Solution2 {
 
 
 
-
-
 #### Permutations-II-47
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/29. 1/5 22:22
 //
@@ -1146,7 +1140,7 @@ class Solution2 {
 
 #### Pow-50
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/30. 2/5 15:03
 //
@@ -1185,7 +1179,7 @@ class Solution {
 
 #### recursion-template
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/30. 14:15
 //
@@ -1215,7 +1209,7 @@ void recursion(int level, int param) {
 
 #### remove-spaces-form-a-given-string
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/26. 21:37
 //
@@ -1243,16 +1237,13 @@ int main() {
     printf("%s\n", str.c_str());
     return 0;
 }
-
 ```
-
-
 
 
 
 #### Serialize-and-Deserialize-Binary-Tree-297
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/25. 2/5 19:48
 //
@@ -1410,7 +1401,7 @@ int main() {
 
 #### Subsets-78
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/30. 2/5 15:33
 //
@@ -1472,14 +1463,13 @@ class Solution2 {
       item.pop_back();
   }
 };
-
 ```
 
 
 
 #### Top-K-Frequent-Elements-347
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/30. 1/5 18:11
 //
@@ -1631,14 +1621,13 @@ class Solution4 {
       return res;
   }
 };
-
 ```
 
 
 
 #### Validate-Binary-Search-Tree-98
 
-```
+```cpp
 //
 // Created by 张达 on 2020/8/27. 2/5 19:48
 //
@@ -1680,5 +1669,4 @@ class Solution2 {
   }
 };
 ```
-
 

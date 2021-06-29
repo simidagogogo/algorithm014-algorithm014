@@ -4,7 +4,7 @@
 
 #### trie-template
 
-```
+```cpp
 //
 // Created by 张达 on 2020/9/25. 09:52
 //

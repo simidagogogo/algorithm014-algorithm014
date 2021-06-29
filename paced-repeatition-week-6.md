@@ -4,7 +4,7 @@
 
 #### Longest-Common-Subsequence-1143
 
-```
+```cpp
 //
 // Created by 张达 on 2020/9/20. 1/5  23:12
 //
@@ -40,7 +40,7 @@ class Solution {
 
 #### recursion-template
 
-```
+```cpp
 //
 // Created by 张达 on 2020/9/20.
 //

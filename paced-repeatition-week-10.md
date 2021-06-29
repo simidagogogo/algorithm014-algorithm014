@@ -4,7 +4,7 @@
 
 #### trapping-rain-water-42
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/25 23:39.
 //

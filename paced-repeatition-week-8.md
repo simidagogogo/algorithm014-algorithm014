@@ -4,7 +4,7 @@
 
 ### bubbleSort-912
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/12 19:04.
 //
@@ -37,7 +37,7 @@ class Solution {
 
 #### bucketSort-912
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/12 20:38.
 //
@@ -134,11 +134,9 @@ int main() {
 
 
 
-
-
 #### char-count-by-hash
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/11.
 //
@@ -173,7 +171,7 @@ int main() {
 
 #### Counting-Bits-338
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/8. 15:05
 //
@@ -261,7 +259,7 @@ int main() {
 
 #### countingSort-912
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/12 19:12.
 //
@@ -337,7 +335,7 @@ int main() {
 
 #### Hanota
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/9. 20:00
 //
@@ -387,11 +385,9 @@ class Solution2 {
 
 
 
-
-
 ### heapSort-912
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/10.
 //
@@ -422,11 +418,9 @@ class Solution {
 
 
 
-
-
 #### Insertion-Sort
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/9. 11:01
 //
@@ -458,7 +452,7 @@ class Solution {
 
 #### insertionSort-912
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/12 19:04.
 //
@@ -493,7 +487,7 @@ class Solution {
 
 #### integer-sort-by-hash
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/11 18:45.
 //
@@ -550,7 +544,7 @@ int main() {
 
 #### Merge-Intervals-56
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/11. 10:05 1/5
 //
@@ -622,16 +616,13 @@ class Solution2 {
       return recur(intervals);
   }
 };
-
 ```
-
-
 
 
 
 #### mergeSort-912
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/10. 17:00
 //
@@ -683,7 +674,7 @@ class Solution {
 
 #### Number-of-1-Bits-191
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/8. 11:11
 //
@@ -724,7 +715,7 @@ class Solution2 {
 
 #### Pow(x, n)-50
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/8.
 //
@@ -763,7 +754,7 @@ class Solution2 {
 
 #### Power-of-Two-231
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/8. 14:55
 //
@@ -781,7 +772,7 @@ class Solution {
 
 #### QuickSort-912
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/9. 20:32
 //
@@ -850,7 +841,7 @@ class Solution {
 
 ### radixSort-912
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/16 18:23.
 //
@@ -888,18 +879,15 @@ class Solution {
           output[count]()
       }
 
-
   }
 };
 ```
 
 
 
-
-
 ### Relative-Sort-Array-1122
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/11. 15:30
 //
@@ -957,7 +945,7 @@ int main() {
 
 #### Reverse-Bits-190
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/8. 11:27
 //
@@ -995,7 +983,7 @@ class Solution2 {
 
 #### Reverse-String-344
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/8. 16:01
 //
@@ -1016,11 +1004,9 @@ class Solution {
 
 
 
-
-
 ### selectSort-912
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/12 19:03.
 //
@@ -1053,11 +1039,9 @@ class Solution {
 
 
 
-
-
 #### Valid-Anagram-242
 
-```
+```cpp
 //
 // Created by 张达 on 2020/10/11 23:35.
 //
